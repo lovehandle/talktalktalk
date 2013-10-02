@@ -1,7 +1,8 @@
 var urls = {
   "cfa" : "http://codeforamerica.org",
   "voxeljscom": "http://voxeljs.com/",
-  "vegas": "http://www.haymoreendodontics.com/wp-content/uploads/2013/05/Las-Vegas-Dentist.jpg"
+  "vegas": "http://www.haymoreendodontics.com/wp-content/uploads/2013/05/Las-Vegas-Dentist.jpg",
+  "vacant": "http://littlevillagemag.com/wp-content/uploads/2013/03/vegasland.jpg"
 }
 
 var slides = Object.keys(urls)
